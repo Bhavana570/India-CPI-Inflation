@@ -7,7 +7,10 @@ Analyzed the average price changes of household goods and services in India, foc
 
 ## Objective
 1.Analyze price changes of household goods and services in India.
+
 2.Lead data cleaning and exploration to ensure accuracy.
+
 3.Create visualizations for inflation trends and food price analysis.
+
 4.Present actionable insights through clear visualizations.
 
