@@ -14,3 +14,6 @@ Analyzed the average price changes of household goods and services in India, foc
 
 4. Extract actionable insights from the data and present findings through effective and clear visualizations to aid decision-making.
 
+
+![data](https://github.com/Bhavana570/India_CPI_Inflation/blob/main/Consumer%20Price%20Index%20V_5.0.xlsx)
+
